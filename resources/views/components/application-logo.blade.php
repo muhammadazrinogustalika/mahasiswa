@@ -1,0 +1,1 @@
+<img src="{{asset('images\TUP MAL.png') }}" alt="logo perusahaan" {{$attributes}}>
